@@ -170,7 +170,7 @@ section {
     grid-column: 2 / 3;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 400px) {
 
     #photo {
 
@@ -223,7 +223,7 @@ section {
     gap: 1rem; 
     padding: 5rem;
 }
-@media (max-width: 600px) {
+@media (max-width: 400px) {
     #about  {
 
         flex-direction: column;
@@ -343,7 +343,7 @@ section {
     grid-column: 2 / 3;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 400px) {
     #grid {
         display: grid;
         grid-template-columns: 1fr ;
@@ -424,7 +424,7 @@ section {
 
 }
 
-@media (max-width: 600px) {
+@media (max-width: 400px) {
     #group  {
         flex-direction: column;
     }
@@ -536,7 +536,7 @@ footer a {
     text-decoration: none;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 400px) {
     footer ul {
         flex-direction: column;
     }
